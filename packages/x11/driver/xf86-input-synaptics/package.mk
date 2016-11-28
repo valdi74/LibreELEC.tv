@@ -1,6 +1,6 @@
 ################################################################################
 #      This file is part of OpenELEC - http://www.openelec.tv
-#      Copyright (C) 2009-2016 Waldemar Konik (xxx@openelec.tv)
+#      Copyright (C) 2009-2016 Waldemar Konik (https://github.com/valdi74)
 #
 #  OpenELEC is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
